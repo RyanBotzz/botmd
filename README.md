@@ -47,7 +47,7 @@
 * <img src="https://i.ibb.co/64CtK3V/Screenshot-2021-12-25-03-35-07.png" height="500" width="500" /></a>
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [Owner-BLACKHATBOT](https://wa.me/62895369318181)
-* Kamu bisa testing fitur Coming Soon [disini](https://wa.me/62895369318181?text=#menu)
+* Kamu bisa testing fitur Coming Soon [disini](https://wa.me/62895369318181?text=save20%dari20%github)
 
 ## How To Change Menu Display
 ----
@@ -170,4 +170,4 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 
 ## Donate
 - [Saweria](https://saweria.co/anonsecteam)
-- [Dana](https://wa.me/62895469318181)
+- [Dana](https://wa.me/62895369318181)
