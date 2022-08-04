@@ -9,7 +9,7 @@ let fetch = require('node-fetch')
 let { perfomance } = require('perf_hooks')
 let moment = require('moment-timezone')
 const defaultMenu = {
-          before: `*Hallo Kak 👋 Saya BLACKHATBOT, Jika Ada Sebuah Bug Atau Error Dalam Fitur Harap Laporkan Ke Owner Atau Developer Bot Tulis Aja !owner Terima Kasih*
+          before: `*Hallo Kak 👋 Saya HANZBOT, Jika Ada Sebuah Bug Atau Error Dalam Fitur Harap Laporkan Ke Owner Atau Developer Bot Tulis Aja !owner Terima Kasih*
 Klik Disini Kak=>%readmore`.trimStart(),
   header: '╭─「 *%category* 」',
   body: '│ • %cmd %islimit %isPremium',
