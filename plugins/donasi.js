@@ -10,7 +10,7 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├ Gak Perlu Bang >~<
+├ 085779150501
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -28,14 +28,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '🏧 Saweria',
-               url: 'https://saweria.co/'
+               url: 'https://saweria.co/ranggabot123'
              }
 
            },
                {
              callButton: {
-               displayText: 'Telkomsel',
-               phoneNumber: '+62-8123-4567-8910'
+               displayText: 'Indosat',
+               phoneNumber: '+62-857-7915-0501'
              }
            },           
                {
